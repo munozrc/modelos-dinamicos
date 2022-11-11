@@ -1,5 +1,11 @@
 # Modelos Dinamicos
 
+### **Ejercicio:**
+
+Aproximando el valor de `pi` - área de un criculo de radio `1`
+
+![captura-ejercicio-python](./Screenshot%202022-11-10%20202817.webp "Captura ejercicio python - metodo Monte Carlo")
+
 Crear un entorno virtual
 
 ```bash
