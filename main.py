@@ -5,7 +5,7 @@ import np
 # radio = 1.
 
 N = 10000
-plt.figure(figsize=(8,8))  # tamaño de la figura
+plt.figure("Área de un círculo de radio = 1 by Carlos Muñoz ", figsize=(8,8))  # tamaño de la figura
 
 x, y = np.random.uniform(-1, 1, size=(2, N))
 interior = (x**2 + y**2) <= 1
